@@ -3,7 +3,7 @@ Humanity Dynamic Response System
 ระบบตอบสนองอย่างมีมนุษยธรรม พร้อมบทพูดและการกระทำที่สมจริง
 """
 
-from engines.core import CognitiveEngine
+from cognitive_engine.engines.core import CognitiveEngine
 import random
 import time
 
